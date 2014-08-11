@@ -1,4 +1,4 @@
-lawyer_cases
+NE lawyers
 ============
 
-Scrape off a list of Nebraska cases worked by a lawyer you specify.
+From <a href="https://www.nebraska.gov/justice/">Justice</a>, scrape off a list of cases worked by a lawyer you specify.
